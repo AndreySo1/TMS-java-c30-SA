@@ -5,5 +5,6 @@ public class Main {
         HomeWork2.task1(123456789);
         HomeWork2.task2(987654321);
         HomeWork2.task3(1023456789);
+
     }
 }
